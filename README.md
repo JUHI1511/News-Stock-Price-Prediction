@@ -1,1 +1,1 @@
-# News-Stock-Price-Prediction
+# News-oriented-Stock-Price-Trend-Prediction-16-April-M-L
