@@ -42,3 +42,12 @@ available in online.
 * Next we removed all stop words present in text data
 # PROJECT DEPLOYMENT LINKS:
 https://stock-market-analyzer.herokuapp.com/
+# References:-
+Deployment Resources
+For Flask :
+https://www.youtube.com/playlist?list=PLJ39kWiJXSiyAFG2W3CUPWaLhvR5CQmTd
+For Streamlit and Heroku :
+https://www.youtube.com/playlist?list=PLtqF5YXg7GLm
+CvTswG32NqQypOuYkPRUE
+https://www.youtube.com/playlist?list=PLqYFiz7NM_SN
+2ZbhnbfwG4kTZ6oCh0aOM
