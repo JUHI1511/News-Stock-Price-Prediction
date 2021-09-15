@@ -9,3 +9,26 @@ market volatility, it is difficult to make the correct prediction solely based o
 Therefore, in this project, with the analysis of daily news’ impact on stock markets, we identify some
 key features that could be useful in stock price prediction and propose a machine learning model to
 capture the dynamics of stock price trend with rich news textual information.
+# Introduction
+Stock price is closely associated with daily news. Positive news such as new acquisition opportunities,
+strong earnings reports and good management governance can increase the price of certain stocks.
+Negative news such as ineffective monetary policy, political uncertainty and natural disaster may
+negatively affect the whole stock market. Various news may lead to different reactions on stock market.
+Thus, when new information comes into public, it is important for investors to quickly identify its
+impact and make correct corresponding predictions on stock price. This project, aims to evaluate the
+stock trend movement and train Machine Learning model that will predict the value of the trend when
+the respective prospective data is entered concerning the same.
+# Overview
+* Data Segmentation and Data Cleaning
+* Exploratory Data Analysis using python’s data visualization libraries
+* Training the model based on the historical data available
+# DATASET:
+The dataset we are working on is a combination of Reddit news and the Dow Jones Industrial Average
+(DJIA) stock price from 2008 to 2016. The news dataset contains the top 25 news on Reddit of each day
+from 2008 to 2016. The DJIA contains the core stock market information for each trading day such as
+Open, Close, and Volume. The label of the dataset represents whether the stock price is increase (labeled
+as 1) or decrease (labeled as 0) on that day. The total number of days in the dataset is 1989. During our
+preliminary experiments, we split the dataset into train, validation and test. The train dataset contains
+1526 days, around 76% of the total dataset. The validation and test datasets contain 85 days and 378
+days respectively
+#
