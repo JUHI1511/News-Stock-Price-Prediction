@@ -32,11 +32,11 @@ preliminary experiments, we split the dataset into train, validation and test. T
 1526 days, around 76% of the total dataset. The validation and test datasets contain 85 days and 378
 days respectively
 # DATA SEGMENTATION AND DATA CLEANING:
-➢ In this project, we have prepared a processed dataset by collecting the clear-cut data
+* In this project, we have prepared a processed dataset by collecting the clear-cut data
 available in online.
-➢ Using pandas data frame, we have loaded the data
-➢ By using regex expressions we cleaned the dataset by removing punctuations, spaces etc.
-➢ By using the fillna we have filled all the cells with median values.
-➢ Next we have tokenized the text data and for each token we applied lemmatization and converted the
-text into lower cased.
-➢ Next we removed all stop words present in text data
+* Using pandas data frame, we have loaded the data
+* By using regex expressions we cleaned the dataset by removing punctuations, spaces etc.
+* By using the fillna we have filled all the cells with median values.
+* Next we have tokenized the text data and for each token we applied lemmatization and converted the
+ text into lower cased.
+* Next we removed all stop words present in text data
