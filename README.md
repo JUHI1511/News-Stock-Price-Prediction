@@ -40,3 +40,5 @@ available in online.
 * Next we have tokenized the text data and for each token we applied lemmatization and converted the
  text into lower cased.
 * Next we removed all stop words present in text data
+# PROJECT DEPLOYMENT LINKS:
+https://stock-market-analyzer.herokuapp.com/
